@@ -1,6 +1,7 @@
 # React-Native-Expo
+### This is a template to start building your React Native with Expo application for IOS/Andoid/Web application.
 
-
+### Scripts
 ```"scripts": {
     "start": "expo start --tunnel",
     "android": "expo start --android",
